@@ -49,8 +49,8 @@ For a complete list of endpoints, refer to the `urls.py` file and the included [
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Mohitsholey04/Zenatix_Assignment.git
+   cd Zenatix_Assignment
    ```
 
 2. **Install Dependencies**:
