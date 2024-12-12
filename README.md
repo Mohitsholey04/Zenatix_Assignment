@@ -113,8 +113,7 @@ A Postman collection for testing the API is included in the repository as `Postm
 - **Source Code Hosted**: [GitHub Repository](https://github.com/Mohitsholey04/Zenatix_Assignment)
 - **Branch Management**:
   - `main`: Production-ready code.
-  - `dev`: Active development.
-- **Meaningful Commit Messages**: Each commit reflects a clear and specific change.
+
 
 ## Comments and Documentation
 
